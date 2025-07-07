@@ -20,4 +20,6 @@ while True:
             print("El resultado es: ", resta)
         case 3:
             print("Gracias por usar el programa")
+            break
+
 
